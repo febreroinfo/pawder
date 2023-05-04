@@ -1,0 +1,2408 @@
+[
+  {
+    "id": 0,
+    "name": "Affenpinscher",
+    "wiki": "https://en.wikipedia.org/wiki/Affenpinscher",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Affenpinscher-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 1,
+    "name": "Afghan Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Afghan_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Afghanischer-Windhund-Profil.jpg.webp"
+  },
+  {
+    "id": 2,
+    "name": "Aidi",
+    "wiki": "https://en.wikipedia.org/wiki/Aidi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Aïdi-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 3,
+    "name": "Airedale Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Airedale_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Airedale-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 4,
+    "name": "Akbash",
+    "wiki": "https://en.wikipedia.org/wiki/Akbash",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Akbash-Profil.jpg.webp"
+  },
+  {
+    "id": 5,
+    "name": "Akita",
+    "wiki": "https://en.wikipedia.org/wiki/Akita_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Akita-Profil.jpg.webp"
+  },
+  {
+    "id": 6,
+    "name": "Alaskan Klee Kai",
+    "wiki": "https://en.wikipedia.org/wiki/Alaskan_Klee_Kai",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/WOWAKK-Kukai-Alaskan-Klee-Kai.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Alaskan Malamute",
+    "wiki": "https://en.wikipedia.org/wiki/Alaskan_Malamute",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Alaskan-Malamute-Profil.jpg.webp"
+  },
+  {
+    "id": 8,
+    "name": "Alpine Dachsbracke",
+    "wiki": "https://en.wikipedia.org/wiki/Alpine_Dachsbracke",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Alpenländische-Dachsbracke-Profilbild.jpg.webp"
+  },
+  {
+    "id": 9,
+    "name": "American Akita",
+    "wiki": "https://en.wikipedia.org/wiki/Akita_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/American-Akita-10-e1559374117675.jpg.webp"
+  },
+  {
+    "id": 10,
+    "name": "American Bulldog",
+    "wiki": "https://en.wikipedia.org/wiki/American_Bulldog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2021/10/American-Bulldog-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 11,
+    "name": "American Bully",
+    "wiki": "https://en.wikipedia.org/wiki/American_Bully",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/American-Bully-Profilbild.jpg.webp"
+  },
+  {
+    "id": 12,
+    "name": "American Cocker Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/American_Cocker_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Amerikanischer-Cocker-Spaniel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 13,
+    "name": "American English Coonhound",
+    "wiki": "https://en.wikipedia.org/wiki/American_English_Coonhound",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Maddie_%288416820450%29.jpg"
+  },
+  {
+    "id": 14,
+    "name": "American Eskimo Dog",
+    "wiki": "https://en.wikipedia.org/wiki/American_Eskimo_Dog",
+    "image": "https://cdn2.thedogapi.com/images/Bymjyec4m.jpg"
+  },
+  {
+    "id": 15,
+    "name": "American Foxhound",
+    "wiki": "https://en.wikipedia.org/wiki/American_Foxhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/American-Foxhound-Profilbild.jpg.webp"
+  },
+  {
+    "id": 16,
+    "name": "American Hairless Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/American_Hairless_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Aht-sable%26white3.jpg"
+  },
+  {
+    "id": 17,
+    "name": "American Leopard Hound",
+    "wiki": "https://en.wikipedia.org/wiki/American_Leopard_Hound",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/American_Leopard_Hound.jpg"
+  },
+  {
+    "id": 18,
+    "name": "American Pit Bull Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/11/American-Pitbull-Profilbild.jpg.webp"
+  },
+  {
+    "id": 19,
+    "name": "American Staffordshire Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/American-Staffordshire-Terrier-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 20,
+    "name": "American Water Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/American_Water_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/American-Water-Spaniel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 21,
+    "name": "Anatolian Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog",
+    "image": "https://www.101dogbreeds.com/wp-content/uploads/2017/08/Anatolian-Shepherd-Pictures.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Appenzeller Mountain Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Appenzeller-Sennenhund-Profil.jpg.webp"
+  },
+  {
+    "id": 23,
+    "name": "Appenzeller Sennenhund",
+    "wiki": "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund",
+    "image": "https://www.101dogbreeds.com/wp-content/uploads/2016/05/Appenzeller-Sennenhund.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Ariégeois",
+    "wiki": "https://en.wikipedia.org/wiki/Ariégeois",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Ariegeois-Portrait-1.jpg.webp"
+  },
+  {
+    "id": 25,
+    "name": "Aussiedoodle",
+    "wiki": "https://en.wikipedia.org/wiki/Dog_crossbreed",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/01/Aussiedoodle.jpg.webp"
+  },
+  {
+    "id": 26,
+    "name": "Australian Cattle Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Australian-Cattle-Dog-Profil.jpg.webp"
+  },
+  {
+    "id": 27,
+    "name": "Australian Kelpie",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Kelpie",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Australian-Kelpie-Profilbild.jpg.webp"
+  },
+  {
+    "id": 28,
+    "name": "Australian Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Australian-Shepherd-Profil.jpg.webp"
+  },
+  {
+    "id": 29,
+    "name": "Australian Silky Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Australian-Silky-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 30,
+    "name": "Australian Stumpy Tail Cattle Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Stumpy_Tail_Cattle_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Australian-Stumpy-Tail-Cattle-Dog-Profilbild.jpg.webp"
+  },
+  {
+    "id": 31,
+    "name": "Australian Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Australian-Terrier-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 32,
+    "name": "Austrian Black and Tan Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Austrian_Black_and_Tan_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Brandlbracke-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 33,
+    "name": "Austrian Pinscher",
+    "wiki": "https://en.wikipedia.org/wiki/Austrian_Pinscher",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Österreichischer-Pinscher-Profil.jpg.webp"
+  },
+  {
+    "id": 34,
+    "name": "Azawakh",
+    "wiki": "https://en.wikipedia.org/wiki/Azawakh",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Azawakh-Profilbild.jpg.webp"
+  },
+  {
+    "id": 35,
+    "name": "Barbado da Terceira",
+    "wiki": "https://en.wikipedia.org/wiki/Barbado_da_Terceira",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Barbado_da_Terceira_%28young_female%29.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Barbet",
+    "wiki": "https://en.wikipedia.org/wiki/Barbet_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Barbet-Profilbild.jpeg.webp"
+  },
+  {
+    "id": 37,
+    "name": "Basenji",
+    "wiki": "https://en.wikipedia.org/wiki/Basenji",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Basenji-7.jpg.webp"
+  },
+  {
+    "id": 38,
+    "name": "Basset Fauve de Bretagne",
+    "wiki": "https://en.wikipedia.org/wiki/Basset_Fauve_de_Bretagne",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Basset_Fauve_de_Bretagne_600.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Basset Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Basset_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Basset-Hound-Profil.jpg.webp"
+  },
+  {
+    "id": 40,
+    "name": "Bavarian Mountain Scent Houn",
+    "wiki": "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Bayerischer-Gebirgsschweißhund-Profil.jpg.webp"
+  },
+  {
+    "id": 41,
+    "name": "Bavarian Mountain Scent Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Bavarian_Mountain_Hound",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Zoran_Spod_Ruskiej_Granicy_the_Bavarian_Mountain_Hound.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Beagle",
+    "wiki": "https://en.wikipedia.org/wiki/Beagle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/beagle.jpg.webp"
+  },
+  {
+    "id": 43,
+    "name": "Bearded Collie",
+    "wiki": "https://en.wikipedia.org/wiki/Bearded_Collie",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Bearded-Collie-Profil.jpg.webp"
+  },
+  {
+    "id": 44,
+    "name": "Beauceron",
+    "wiki": "https://en.wikipedia.org/wiki/Beauceron",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Beauceron-Profil.jpg.webp"
+  },
+  {
+    "id": 45,
+    "name": "Bedlington Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Bedlington_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bedlington-Terrier-6-e1564577509429.jpg.webp"
+  },
+  {
+    "id": 46,
+    "name": "Belgian Laekenois",
+    "wiki": "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/I%C2%B4Ker_de_R.Brown.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Belgian Malinois",
+    "wiki": "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+    "image": "https://cdn2.thedogapi.com/images/r1f_ll5VX.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Belgian Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tervuren.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Belgian Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Belgischer-Schäferhund.jpg.webp"
+  },
+  {
+    "id": 50,
+    "name": "Belgian Tervuren",
+    "wiki": "https://en.wikipedia.org/wiki/Belgian_Shepherd",
+    "image": "https://cdn2.thedogapi.com/images/B1KdxlcNX.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Bergamasco Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Bergamasco_Shepherd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ortensia_di_Valle_Scrivia.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Bergamasco Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Bergamasco_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/12/Bergamasker-Hirtenhund-Profil.jpg.webp"
+  },
+  {
+    "id": 53,
+    "name": "Berger Blanc Suisse",
+    "wiki": "https://en.wikipedia.org/wiki/White_Swiss_Shepherd_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Berger-Blanc-Suisse-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 54,
+    "name": "Berger Picard",
+    "wiki": "https://en.wikipedia.org/wiki/Berger_Picard",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Berger-De-Picardie-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 55,
+    "name": "Bernedoodle",
+    "wiki": "https://en.wikipedia.org/wiki/Dog_crossbreed",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Bernedoodle-Profilbild.jpg.webp"
+  },
+  {
+    "id": 56,
+    "name": "Bernese Mountain Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Berner-Sennenhund-Profil.jpg.webp"
+  },
+  {
+    "id": 57,
+    "name": "Bichon Frise",
+    "wiki": "https://en.wikipedia.org/wiki/Bichon_Fris%C3%A9",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bichon-Frisé.jpg.webp"
+  },
+  {
+    "id": 58,
+    "name": "Biewer Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Biewer-Terrier-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 59,
+    "name": "Black and Tan Coonhound",
+    "wiki": "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Black-And-Tan-Coonhound-Profilbild.jpg.webp"
+  },
+  {
+    "id": 60,
+    "name": "Black Russian Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Black_Russian_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Russianblack.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Bloodhound",
+    "wiki": "https://en.wikipedia.org/wiki/Bloodhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bloodhound5.jpg.webp"
+  },
+  {
+    "id": 62,
+    "name": "Bluetick Coonhound",
+    "wiki": "https://en.wikipedia.org/wiki/Bluetick_Coonhound",
+    "image": "https://cdn2.thedogapi.com/images/rJxieg9VQ.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Bobtail",
+    "wiki": "https://en.wikipedia.org/wiki/Old_English_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bobtail-6-e1563431731760.jpg.webp"
+  },
+  {
+    "id": 64,
+    "name": "Boerboel",
+    "wiki": "https://en.wikipedia.org/wiki/Boerboel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Boerboel-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 65,
+    "name": "Bohemian Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Bohemian_Shepherd",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Caesar_Chodsk%C3%BD_drahokam.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Bolognese",
+    "wiki": "https://en.wikipedia.org/wiki/Bolognese_dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Bologneser-Profil.jpg.webp"
+  },
+  {
+    "id": 67,
+    "name": "Border Collie",
+    "wiki": "https://en.wikipedia.org/wiki/Border_Collie",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Border-Collie-Profil.jpg.webp"
+  },
+  {
+    "id": 68,
+    "name": "Border Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Border_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Border-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 69,
+    "name": "Borzoi",
+    "wiki": "https://en.wikipedia.org/wiki/Borzoi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Barsoi.jpg.webp"
+  },
+  {
+    "id": 70,
+    "name": "Boston Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Boston_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Boston-Terrier-5.jpg.webp"
+  },
+  {
+    "id": 71,
+    "name": "Bouvier Des Ardennes",
+    "wiki": "https://en.wikipedia.org/wiki/Bouvier_des_Ardennes",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bouvier-Des-Ardennes-Profilbild.jpg.webp"
+  },
+  {
+    "id": 72,
+    "name": "Bouvier des Flandres",
+    "wiki": "https://en.wikipedia.org/wiki/Bouvier_des_Flandres",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Bouvier-Des-Flandres-Profilbild.jpg.webp"
+  },
+  {
+    "id": 73,
+    "name": "Boxer",
+    "wiki": "https://en.wikipedia.org/wiki/Boxer_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Deutscher-Boxer.jpg.webp"
+  },
+  {
+    "id": 74,
+    "name": "Boykin Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Boykin_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Boykin-Spaniel-1.jpg.webp"
+  },
+  {
+    "id": 75,
+    "name": "Bracco Italiano",
+    "wiki": "https://en.wikipedia.org/wiki/Bracco_Italiano",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bracco-Italiano-Profilbild.jpg.webp"
+  },
+  {
+    "id": 76,
+    "name": "Braque du Bourbonnais",
+    "wiki": "https://en.wikipedia.org/wiki/Braque_du_Bourbonnais",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Braque-Du-Bourbonnais-Profilbild.jpg.webp"
+  },
+  {
+    "id": 77,
+    "name": "Braque Francais Pyrenean",
+    "wiki": "https://en.wikipedia.org/wiki/Braque_Fran%C3%A7ais",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Wy%C5%BCe%C5%82_Gasko%C5%84ski.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Briard",
+    "wiki": "https://en.wikipedia.org/wiki/Briard",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Briard-Profil.jpg.webp"
+  },
+  {
+    "id": 79,
+    "name": "Brittany",
+    "wiki": "https://en.wikipedia.org/wiki/Brittany_(dog)",
+    "image": "https://cdn2.thedogapi.com/images/HJWZZxc4X.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Broholm",
+    "wiki": "https://en.wikipedia.org/wiki/Broholmer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Broholmer-Profilbild.jpg.webp"
+  },
+  {
+    "id": 81,
+    "name": "Broholmer",
+    "wiki": "https://en.wikipedia.org/wiki/Broholmer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Male_Broholmer.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Brussels Griffon",
+    "wiki": "https://en.wikipedia.org/wiki/Griffon_Bruxellois",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Bull Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Bull_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Bullterrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 84,
+    "name": "Bulldog",
+    "wiki": "https://en.wikipedia.org/wiki/Bulldog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Englische-Bulldogge-Profilbild.jpg.webp"
+  },
+  {
+    "id": 85,
+    "name": "Bullmastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Bullmastiff",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Bullmastiff-Profil.jpg.webp"
+  },
+  {
+    "id": 86,
+    "name": "Burgos Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/Burgos_Pointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Perdiguero-De-Burgos-Profilbild.jpg.webp"
+  },
+  {
+    "id": 87,
+    "name": "Ca De Bestiar",
+    "wiki": "https://en.wikipedia.org/wiki/Majorca_Shepherd_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Ca-De-Bestiar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 88,
+    "name": "Ca De Bou",
+    "wiki": "https://en.wikipedia.org/wiki/Ca_de_Bou",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Ca-De-Bou-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 89,
+    "name": "Cairn Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Cairn_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Cairn-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 90,
+    "name": "Canaan Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Canaan_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Kanaan-Hund-Titelbild.jpg.webp"
+  },
+  {
+    "id": 91,
+    "name": "Cane Corso",
+    "wiki": "https://en.wikipedia.org/wiki/Cane_Corso",
+    "image": "https://cdn2.thedogapi.com/images/r15m-lc4m.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Cane Corso Italiano",
+    "wiki": "https://en.wikipedia.org/wiki/Cane_Corso",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Cane-Corso-Italiano-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 93,
+    "name": "Cão Da Serra Da Estrela",
+    "wiki": "https://en.wikipedia.org/wiki/Estrela_Mountain_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Cão-Da-Serra-Da-Estrela-Profilbild.jpg.webp"
+  },
+  {
+    "id": 94,
+    "name": "Cão De Água Português",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Portugiesischer-Wasserhund-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 95,
+    "name": "Cardigan Welsh Corgi",
+    "wiki": "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Welsh-Corgi-Cardigan-Profil.jpg.webp"
+  },
+  {
+    "id": 96,
+    "name": "Carolina Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Carolina_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Carolina_dog_3-13-13.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Catahoula Leopard Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Catahoula_Leopard_Dog",
+    "image": "https://www.101dogbreeds.com/wp-content/uploads/2014/11/Catahoula-Leopard-Dog.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Caucasian Owtscharka",
+    "wiki": "https://en.wikipedia.org/wiki/Armenian_Gampr",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Kaukasischer-Owtscharka-Profilbild.jpg.webp"
+  },
+  {
+    "id": 99,
+    "name": "Caucasian Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Caucasian_Shepherd_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Owtscharka_Dschinie_%28cropped%29.JPG"
+  },
+  {
+    "id": 100,
+    "name": "Cavalier King Charles Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/cavalier-king-charles-spaniel-13.jpg.webp"
+  },
+  {
+    "id": 101,
+    "name": "Cavapoo",
+    "wiki": "https://en.wikipedia.org/wiki/Cavapoo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Cavapoo-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 102,
+    "name": "Central Asian Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Central_Asian_Shepherd_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Zentralasiatischer-Owtscharka-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 103,
+    "name": "Český fousek (Bohemian rough beard)",
+    "wiki": "https://en.wikipedia.org/wiki/Český_fousek",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Cesky-fousek-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 104,
+    "name": "Cesky Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Cesky_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terier_czeski_suka_2009_pl2.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Chart Polski",
+    "wiki": "https://en.wikipedia.org/wiki/Polish_Greyhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Chart-Polski-Profilbild.jpg.webp"
+  },
+  {
+    "id": 106,
+    "name": "Chesapeake Bay Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Chesapeake-Bay-Retriever-Profil.jpg.webp"
+  },
+  {
+    "id": 107,
+    "name": "Chien d'Artois",
+    "wiki": "https://en.wikipedia.org/wiki/Artois_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Chien-d’Artois-Profil.jpeg.webp"
+  },
+  {
+    "id": 108,
+    "name": "Chien de Montagne des Pyrénées",
+    "wiki": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Chien-De-Montagne-Des-Pyrénées-Profilbild.jpg.webp"
+  },
+  {
+    "id": 109,
+    "name": "Chihuahua",
+    "wiki": "https://en.wikipedia.org/wiki/Chihuahua_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/chihuahua-rasse.jpg.webp"
+  },
+  {
+    "id": 110,
+    "name": "Chinese Crested",
+    "wiki": "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
+    "image": "https://cdn2.thedogapi.com/images/B1pDZx9Nm.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Chinese Crested Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Chinesischer-Schopfhund.jpg.webp"
+  },
+  {
+    "id": 112,
+    "name": "Chinese Shar-Pei",
+    "wiki": "https://en.wikipedia.org/wiki/Shar_Pei",
+    "image": "https://cdn2.thedogapi.com/images/B1ruWl94Q.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Chinook",
+    "wiki": "https://en.wikipedia.org/wiki/Chinook_(dog)",
+    "image": "https://cdn2.thedogapi.com/images/Sypubg54Q.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Chow Chow",
+    "wiki": "https://en.wikipedia.org/wiki/Chow_Chow",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Chow-Chow-Profil.jpg.webp"
+  },
+  {
+    "id": 115,
+    "name": "Ciobănesc Românesc De Bucovina",
+    "wiki": "https://en.wikipedia.org/wiki/Bucovina_Shepherd_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Ciobănesc-Românesc-De-Bucovina-Profilbild.jpg.webp"
+  },
+  {
+    "id": 116,
+    "name": "Cirneco dell'Etna",
+    "wiki": "https://en.wikipedia.org/wiki/Cirneco_dell%27Etna",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Cirneco_dell_Etna_611.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Clumber Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Clumber_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Clumber-Spaniel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 118,
+    "name": "Cockapoo",
+    "wiki": "https://en.wikipedia.org/wiki/Cockapoo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Cockapoo-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 119,
+    "name": "Cocker Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Cocker_Spaniel",
+    "image": "https://cdn2.thedogapi.com/images/1lFmrzECl.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Collie",
+    "wiki": "https://en.wikipedia.org/wiki/Collie",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Langhaarcollie-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 121,
+    "name": "Continental Bulldog",
+    "wiki": "https://en.wikipedia.org/wiki/Continental_bulldog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/01/Continental-Bulldog-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 122,
+    "name": "Coton de Tulear",
+    "wiki": "https://en.wikipedia.org/wiki/Coton_de_Tulear",
+    "image": "https://cdn2.thedogapi.com/images/SyviZlqNm.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Coton De TulÈar",
+    "wiki": "https://en.wikipedia.org/wiki/Coton_de_Tulear",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Coton-De-Tuléar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 124,
+    "name": "Croatian Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Croatian_Sheepdog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/GeraHojda09112055ZG.jpeg"
+  },
+  {
+    "id": 125,
+    "name": "Curly Coated Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Curly-coated_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Curly-Coated-Retriever-Profilbild.jpg.webp"
+  },
+  {
+    "id": 126,
+    "name": "Curly-Coated Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Curly-coated_Retriever",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Curly_Coated_Retriever.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Czechoslovakian Vlcak",
+    "wiki": "https://en.wikipedia.org/wiki/Czechoslovakian_Wolfdog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TWH-jolly.JPG"
+  },
+  {
+    "id": 128,
+    "name": "Czechoslovakian Wolfhound",
+    "wiki": "https://en.wikipedia.org/wiki/Saarloos_wolfdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/tschechoslowakischer-wolfshund-14.jpg.webp"
+  },
+  {
+    "id": 129,
+    "name": "Dachshund",
+    "wiki": "https://en.wikipedia.org/wiki/Dachshund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Dackel.jpg.webp"
+  },
+  {
+    "id": 130,
+    "name": "Dalmatian",
+    "wiki": "https://en.wikipedia.org/wiki/Dalmatian_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Dalmatiner-Profil.jpg.webp"
+  },
+  {
+    "id": 131,
+    "name": "Dandie Dinmont Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Dandie-Dinmont-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 132,
+    "name": "Danish-Swedish Farmdog",
+    "wiki": "https://en.wikipedia.org/wiki/Danish%E2%80%93Swedish_Farmdog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Danish_Farm_Dog1604fxcr_wb.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Deerhound",
+    "wiki": "https://en.wikipedia.org/wiki/Scottish_Deerhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Deerhound-Profil.jpg.webp"
+  },
+  {
+    "id": 134,
+    "name": "Deutscher Wachtelhund",
+    "wiki": "https://en.wikipedia.org/wiki/German_Spaniel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Deutscher_Wachtel_2.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Do Khyi",
+    "wiki": "https://en.wikipedia.org/wiki/Tibetan_Mastiff",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Do-Khyi-Profil.jpg.webp"
+  },
+  {
+    "id": 136,
+    "name": "Doberman",
+    "wiki": "https://en.wikipedia.org/wiki/Dobermann",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/01/Dobermann-Profil-1-scaled.jpg.webp"
+  },
+  {
+    "id": 137,
+    "name": "Doberman Pinscher",
+    "wiki": "https://en.wikipedia.org/wiki/Dobermann",
+    "image": "https://cdn2.thedogapi.com/images/HyL3bl94Q.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Dogo Argentino",
+    "wiki": "https://en.wikipedia.org/wiki/Dogo_Argentino",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Dogo-Argentino-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 139,
+    "name": "Dogo Canario",
+    "wiki": "https://en.wikipedia.org/wiki/Presa_Canario",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Dogo-Canario-Profilbild.jpg.webp"
+  },
+  {
+    "id": 140,
+    "name": "Dogue de Bordeaux",
+    "wiki": "https://en.wikipedia.org/wiki/Dogue_de_Bordeaux",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Dogue-De-Bordeaux-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 141,
+    "name": "Drentsche Patrijshond",
+    "wiki": "https://en.wikipedia.org/wiki/Drentse_Patrijshond",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Drentse_Patrijshond.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Drever",
+    "wiki": "https://en.wikipedia.org/wiki/Drever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Drever-Profilbild.jpg.webp"
+  },
+  {
+    "id": 143,
+    "name": "Dutch Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Dutch_Shepherd",
+    "image": "https://cdn2.thedogapi.com/images/BkE6Wg5E7.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Elo",
+    "wiki": "https://de.wikipedia.org/wiki/Elo_(Hunderasse)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Elo-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 145,
+    "name": "English Cocker Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/English_Cocker_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/English-Cocker-Spaniel-11.jpg.webp"
+  },
+  {
+    "id": 146,
+    "name": "English Foxhound",
+    "wiki": "https://en.wikipedia.org/wiki/English_Foxhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/English-Foxhound-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 147,
+    "name": "English Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/Pointer_(dog_breed)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/English-Pointer-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 148,
+    "name": "English Setter",
+    "wiki": "https://en.wikipedia.org/wiki/English_Setter",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/English-Setter-Profil.jpg.webp"
+  },
+  {
+    "id": 149,
+    "name": "English Springer Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/English_Springer_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/English-Springer-Spaniel.jpg.webp"
+  },
+  {
+    "id": 150,
+    "name": "English Toy Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/King_Charles_Spaniel",
+    "image": "https://cdn2.thedogapi.com/images/SkIgzxqNQ.jpg"
+  },
+  {
+    "id": 151,
+    "name": "English Toy Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/English_Toy_Terrier_(Black_%26_Tan)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/11/English-Toy-Terrier-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 152,
+    "name": "Entlebucher Mountain Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Entlebucher-Sennenhund-Profil.jpeg.webp"
+  },
+  {
+    "id": 153,
+    "name": "Epagneul Breton",
+    "wiki": "https://en.wikipedia.org/wiki/Brittany_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Epagneul-Breton-Profil.jpg.webp"
+  },
+  {
+    "id": 154,
+    "name": "Epagneul Français",
+    "wiki": "https://en.wikipedia.org/wiki/French_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Epagneul-Francais-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 155,
+    "name": "Estrela Mountain Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Estrela_Mountain_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Estrela_Mountain_Dog_6_month_old_male.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Eurasier",
+    "wiki": "https://en.wikipedia.org/wiki/Eurasier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Eurasier-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 157,
+    "name": "Field Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Field_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Field-Spaniel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 158,
+    "name": "Fila Brasileiro",
+    "wiki": "https://en.wikipedia.org/wiki/Fila_Brasileiro",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Fila-Brasileiro-Profil.jpg.webp"
+  },
+  {
+    "id": 159,
+    "name": "Finnish Lapphund",
+    "wiki": "https://en.wikipedia.org/wiki/Finnish_Lapphund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Finnischer-Lapphund-Profil.jpg.webp"
+  },
+  {
+    "id": 160,
+    "name": "Finnish Spitz",
+    "wiki": "https://en.wikipedia.org/wiki/Finnish_Spitz",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Finnischer-Spitz-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 161,
+    "name": "Flat Coated Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Flat-Coated-Retriever-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 162,
+    "name": "Flat-Coated Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flat_Coated_Retriever_-_black.jpg"
+  },
+  {
+    "id": 163,
+    "name": "French Bulldog",
+    "wiki": "https://en.wikipedia.org/wiki/French_Bulldog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/französische-bulldogge.jpg.webp"
+  },
+  {
+    "id": 164,
+    "name": "French Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/French_Spaniel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/04031137_Epagneul_Francais.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Galgo Español",
+    "wiki": "https://en.wikipedia.org/wiki/Galgo_Espa%C3%B1ol",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Galgo-Español-Profilbild.jpg.webp"
+  },
+  {
+    "id": 166,
+    "name": "German Hound",
+    "wiki": "https://en.wikipedia.org/wiki/German_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Deutsche-Bracke-Profil.jpg.webp"
+  },
+  {
+    "id": 167,
+    "name": "German Hunting Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Jagdterrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Deutscher-Jagdterrier-Profil.jpeg.webp"
+  },
+  {
+    "id": 168,
+    "name": "German Longhaired Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/German_Longhaired_Pointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Deutsch-Langhaar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 169,
+    "name": "German Pinscher",
+    "wiki": "https://en.wikipedia.org/wiki/German_Pinscher",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Deutscher-Pinscher-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 170,
+    "name": "German Roughhaired Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/German_Roughhaired_Pointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Deutsch-Stichelhaar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 171,
+    "name": "German Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/German_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Deutscher-Schäferhund-Profil.jpg.webp"
+  },
+  {
+    "id": 172,
+    "name": "German Shorthair",
+    "wiki": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Deutsch-Kurzhaar-Profil.jpg.webp"
+  },
+  {
+    "id": 173,
+    "name": "German Shorthaired Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/German_Shorthaired_Pointer",
+    "image": "https://cdn2.thedogapi.com/images/SJqBMg5Nm.jpg"
+  },
+  {
+    "id": 174,
+    "name": "German Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/German_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Deutscher-Wachtelhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 175,
+    "name": "German Spitz",
+    "wiki": "https://en.wikipedia.org/wiki/German_Spitz",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Deutsche-Spitze-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 176,
+    "name": "German Wirehaired Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/German_Wirehaired_Pointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Deutsch-Drahthaar-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 177,
+    "name": "Giant Schnauzer",
+    "wiki": "https://en.wikipedia.org/wiki/Giant_Schnauzer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Riesenschnauzer_3.jpg.webp"
+  },
+  {
+    "id": 178,
+    "name": "Glen of Imaal Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier",
+    "image": "https://cdn2.thedogapi.com/images/H1oLMe94m.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Golden Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Golden_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Golden-Retriever-Profil.jpg.webp"
+  },
+  {
+    "id": 180,
+    "name": "Goldendoodle",
+    "wiki": "https://en.wikipedia.org/wiki/Goldendoodle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Golden-Labradoodle-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 181,
+    "name": "Gordon Setter",
+    "wiki": "https://en.wikipedia.org/wiki/Gordon_Setter",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Gordon-Setter.jpg.webp"
+  },
+  {
+    "id": 182,
+    "name": "Grand Basset Griffon Vendéen",
+    "wiki": "https://en.wikipedia.org/wiki/Grand_Basset_Griffon_Vend%C3%A9en",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Grand_Basset_Griffon_Vend%C3%A9en_in_Tallinn_6.JPG"
+  },
+  {
+    "id": 183,
+    "name": "Great Dane",
+    "wiki": "https://en.wikipedia.org/wiki/Great_Dane",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Deutsche-Dogge.jpg.webp"
+  },
+  {
+    "id": 184,
+    "name": "Great Pyrenees",
+    "wiki": "https://en.wikipedia.org/wiki/Pyrenean_Mountain_Dog",
+    "image": "https://cdn2.thedogapi.com/images/B12uzg9V7.png"
+  },
+  {
+    "id": 185,
+    "name": "Greater Swiss Mountain Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Schweizer-Sennenhund-10-e1563428404542.jpg.webp"
+  },
+  {
+    "id": 186,
+    "name": "Greek Harehound",
+    "wiki": "https://en.wikipedia.org/wiki/Greek_Harehound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Griechische-Bracke-Profilbild.jpg.webp"
+  },
+  {
+    "id": 187,
+    "name": "Greenland Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Greenland_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Groenlandhund.jpg.webp"
+  },
+  {
+    "id": 188,
+    "name": "Greyhound",
+    "wiki": "https://en.wikipedia.org/wiki/Greyhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Greyhound-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 189,
+    "name": "Griffon Belge",
+    "wiki": "https://en.wikipedia.org/wiki/Griffon_Bruxellois",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Belgische-Zwerggriffons-Griffon-Belge-Profil.jpg.webp"
+  },
+  {
+    "id": 190,
+    "name": "Griffon Bleu De Gascogne",
+    "wiki": "https://en.wikipedia.org/wiki/Griffon_Bleu_de_Gascogne",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Griffon-Bleu-De-Gascogne-Profilbild.jpg.webp"
+  },
+  {
+    "id": 191,
+    "name": "Griffon Fauve De Bretagne",
+    "wiki": "https://en.wikipedia.org/wiki/Griffon_Fauve_de_Bretagne",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Griffon-Fauve-De-Bretagne.jpeg.webp"
+  },
+  {
+    "id": 192,
+    "name": "Griffon Nivernais",
+    "wiki": "https://en.wikipedia.org/wiki/Griffon_Nivernais",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Griffon-Nivernais-Profilbild.jpg.webp"
+  },
+  {
+    "id": 193,
+    "name": "Hamiltonstovare",
+    "wiki": "https://en.wikipedia.org/wiki/Hamiltonst%C3%B6vare",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hamiltonstovare_600.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Hanover Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Hanover_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Hannoverscher-Schweißhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 195,
+    "name": "Hanoverian Scenthound",
+    "wiki": "https://en.wikipedia.org/wiki/Hanover_Hound",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hannoverscher_Schweisshund.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Harrier",
+    "wiki": "https://en.wikipedia.org/wiki/Harrier_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Harrier-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 197,
+    "name": "Havanese",
+    "wiki": "https://en.wikipedia.org/wiki/Havanese_dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Havaneser.jpg.webp"
+  },
+  {
+    "id": 198,
+    "name": "Hokkaido",
+    "wiki": "https://en.wikipedia.org/wiki/Hokkaido_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Hokkaido-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 199,
+    "name": "Hollandse Herdershond",
+    "wiki": "https://en.wikipedia.org/wiki/Dutch_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Hollandse-Herdershond-Profilbild.jpg.webp"
+  },
+  {
+    "id": 200,
+    "name": "Hollandse Smoushond",
+    "wiki": "https://en.wikipedia.org/wiki/Dutch_Smoushond",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Hollandse-Smoushond-Profilbild.jpg.webp"
+  },
+  {
+    "id": 201,
+    "name": "Hovawart",
+    "wiki": "https://en.wikipedia.org/wiki/Hovawart",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Hovawart-Profilbild.jpg.webp"
+  },
+  {
+    "id": 202,
+    "name": "Hrvatski Ovcar",
+    "wiki": "https://en.wikipedia.org/wiki/Croatian_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Kroatischer-Schäferhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 203,
+    "name": "Ibizan Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Ibizan_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Podenco-Ibicenco-Profilbild.jpg.webp"
+  },
+  {
+    "id": 204,
+    "name": "Icelandic Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Icelandic_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Islandhund.jpg.webp"
+  },
+  {
+    "id": 205,
+    "name": "Irish Red and White Setter",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Red_and_White_Setter",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Irish-Red-And-White-Setter-Profilbild.jpg.webp"
+  },
+  {
+    "id": 206,
+    "name": "Irish Red Setter",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Setter",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Irish-Red-Setter-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 207,
+    "name": "Irish Setter",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Setter",
+    "image": "https://cdn2.thedogapi.com/images/S1osGeqVm.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Irish Soft Coated Wheaten Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Irish-Soft-Coated-Wheaten-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 209,
+    "name": "Irish Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Irish-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 210,
+    "name": "Irish Water Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Irish-Water-Spaniel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 211,
+    "name": "Irish Wolfhound",
+    "wiki": "https://en.wikipedia.org/wiki/Irish_Wolfhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Irischer-Wolfshund-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 212,
+    "name": "Italian Greyhound",
+    "wiki": "https://en.wikipedia.org/wiki/Italian_Greyhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Italienisches-Windspiel-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 213,
+    "name": "Jack Russell Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Jack-Russell-Terrier.jpg.webp"
+  },
+  {
+    "id": 214,
+    "name": "Jagdterrier",
+    "wiki": "https://en.wikipedia.org/wiki/Jagdterrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Jagdterrier_bulgaria.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Jämthund",
+    "wiki": "https://en.wikipedia.org/wiki/J%C3%A4mthund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Jämthund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 216,
+    "name": "Japanese Akitainu",
+    "wiki": "https://en.wikipedia.org/wiki/Akita_(dog)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Akita_hiking_in_Shpella_e_P%C3%ABllumbasit.JPG"
+  },
+  {
+    "id": 217,
+    "name": "Japanese Chin",
+    "wiki": "https://en.wikipedia.org/wiki/Japanese_Chin",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Japan-Chin-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 218,
+    "name": "Japanese Spitz",
+    "wiki": "https://en.wikipedia.org/wiki/Japanese_Spitz",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Japan-Spitz-Profil.jpg.webp"
+  },
+  {
+    "id": 219,
+    "name": "Japanese Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Japanese_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Japanischer-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 220,
+    "name": "Jindo",
+    "wiki": "https://en.wikipedia.org/wiki/Korean_Jindo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jindo_wiki.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Kai Ken",
+    "wiki": "https://en.wikipedia.org/wiki/Kai_Ken",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Kai-portrait.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Kangal Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Kangal_Shepherd_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/11/Kangal-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 223,
+    "name": "Karelian Bear Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Karelian_Bear_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Karelischer-Bärenhund-Kopie.jpg.webp"
+  },
+  {
+    "id": 224,
+    "name": "Keeshond",
+    "wiki": "https://en.wikipedia.org/wiki/Keeshond",
+    "image": "https://www.hundeo.com/wp-content/uploads/2021/10/Wolfsspitz-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 225,
+    "name": "Kerry Blue Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Kerry_Blue_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Kerry-Blue-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 226,
+    "name": "Kishu",
+    "wiki": "https://en.wikipedia.org/wiki/Kishu",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Kishu-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 227,
+    "name": "Kishu Ken",
+    "wiki": "https://en.wikipedia.org/wiki/Kishu",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mochi.Female.KishuInu.7Wks.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Kokoni",
+    "wiki": "https://en.wikipedia.org/wiki/Kokoni",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Kokoni-Titelbild.jpg.webp"
+  },
+  {
+    "id": 229,
+    "name": "Komondor",
+    "wiki": "https://en.wikipedia.org/wiki/Komondor",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Komondor-Profilbild.jpg.webp"
+  },
+  {
+    "id": 230,
+    "name": "Kooikerhondje",
+    "wiki": "https://en.wikipedia.org/wiki/Kooikerhondje",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Kooikerhondje.jpg.webp"
+  },
+  {
+    "id": 231,
+    "name": "Korea Jindo Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Korean_Jindo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/05/Koreanischer-Jindo-Titelbild.jpg.webp"
+  },
+  {
+    "id": 232,
+    "name": "Kromfohrlander",
+    "wiki": "https://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kromfohr_rauhaar.JPG"
+  },
+  {
+    "id": 233,
+    "name": "Kromfohrländer",
+    "wiki": "https://en.wikipedia.org/wiki/Kromfohrl%C3%A4nder",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Kromfohrländer-Profilbild.jpg.webp"
+  },
+  {
+    "id": 234,
+    "name": "Kuvasz",
+    "wiki": "https://en.wikipedia.org/wiki/Kuvasz",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Kuvasz-Profilbild.jpg.webp"
+  },
+  {
+    "id": 235,
+    "name": "Labradoodle",
+    "wiki": "https://en.wikipedia.org/wiki/Labradoodle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2021/10/Labradoodle-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 236,
+    "name": "Labrador Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Labrador_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Labrador-Retriever-Profil.jpg.webp"
+  },
+  {
+    "id": 237,
+    "name": "Lagotto Romagnolo",
+    "wiki": "https://en.wikipedia.org/wiki/Lagotto_Romagnolo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Lagotto-Romagnolo-Profil.jpg.webp"
+  },
+  {
+    "id": 238,
+    "name": "Laika",
+    "wiki": "https://en.wikipedia.org/wiki/Laika",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Laika-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 239,
+    "name": "Lakeland Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Lakeland_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Lakeland-Terrier-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 240,
+    "name": "Lancashire Heeler",
+    "wiki": "https://en.wikipedia.org/wiki/Lancashire_Heeler",
+    "image": "https://cdn2.thedogapi.com/images/S1RGml5Em.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Landseer",
+    "wiki": "https://en.wikipedia.org/wiki/Landseer_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Landseer_2.jpg.webp"
+  },
+  {
+    "id": 242,
+    "name": "Lapland reindeer dog",
+    "wiki": "https://en.wikipedia.org/wiki/Lapponian_Herder",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Lapplaendischer-Rentierhund-Titelbild.jpg.webp"
+  },
+  {
+    "id": 243,
+    "name": "Lapponian Herder",
+    "wiki": "https://en.wikipedia.org/wiki/Lapponian_Herder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lapskvallhund.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Large Munsterlander",
+    "wiki": "https://en.wikipedia.org/wiki/Large_Münsterländer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Grosser-Münsterländer_1-e1564756349929.jpg.webp"
+  },
+  {
+    "id": 245,
+    "name": "Leonberger",
+    "wiki": "https://en.wikipedia.org/wiki/Leonberger",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Leonberger-Profil.jpg.webp"
+  },
+  {
+    "id": 246,
+    "name": "Lhasa Apso",
+    "wiki": "https://en.wikipedia.org/wiki/Lhasa_Apso",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Lahsa-Apso_1.jpg.webp"
+  },
+  {
+    "id": 247,
+    "name": "Löwchen",
+    "wiki": "https://en.wikipedia.org/wiki/Löwchen",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Löwchen-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 248,
+    "name": "Magyar Agár",
+    "wiki": "https://en.wikipedia.org/wiki/Magyar_Agár",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Magyar-Agár-Profilbild.jpg.webp"
+  },
+  {
+    "id": 249,
+    "name": "Maltese",
+    "wiki": "https://en.wikipedia.org/wiki/Maltese_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Malteser-Profil.jpg.webp"
+  },
+  {
+    "id": 250,
+    "name": "Maltipoo",
+    "wiki": "https://simple.wikipedia.org/wiki/Maltipoo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Maltipoo-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 251,
+    "name": "Manchester Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Manchester_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Manchester-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 252,
+    "name": "Manchester Terrier (Standard)",
+    "wiki": "https://en.wikipedia.org/wiki/Manchester_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mancherster_Terrier.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Manchester Terrier (Toy)",
+    "wiki": "https://en.wikipedia.org/wiki/Toy_Manchester_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Toy-manchester-terrier-weave.png"
+  },
+  {
+    "id": 254,
+    "name": "Maremma Abruzzo Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Maremmano-Abruzzese_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Maremmen-Abruzzen-Schäferhund-Profilbild-1.jpg.webp"
+  },
+  {
+    "id": 255,
+    "name": "Mastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Mastiff",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Mastiff-Profil.jpg.webp"
+  },
+  {
+    "id": 256,
+    "name": "Mastino Napoletano",
+    "wiki": "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/mastino-napoletano-5-e1563879632411.jpg.webp"
+  },
+  {
+    "id": 257,
+    "name": "Miniature American Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Mini-Australian-Shepherd-Profil.jpg.webp"
+  },
+  {
+    "id": 258,
+    "name": "Miniature Bull Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Miniature-Bull-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 259,
+    "name": "Miniature Pinscher",
+    "wiki": "https://en.wikipedia.org/wiki/Miniature_Pinscher",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Zwergpinscher.jpg.webp"
+  },
+  {
+    "id": 260,
+    "name": "Miniature Schnauzer",
+    "wiki": "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Zwergschnauzer-Profil.jpg.webp"
+  },
+  {
+    "id": 261,
+    "name": "Mountain Cur",
+    "wiki": "https://en.wikipedia.org/wiki/Mountain_Cur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mtncur.png"
+  },
+  {
+    "id": 262,
+    "name": "Mudi",
+    "wiki": "https://en.wikipedia.org/wiki/Mudi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Mudi-Profilbild.jpg.webp"
+  },
+  {
+    "id": 263,
+    "name": "Neapolitan Mastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mastinonapoletano.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Nederlandse Kooikerhondje",
+    "wiki": "https://en.wikipedia.org/wiki/Kooikerhondje",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kooiker03.jpg"
+  },
+  {
+    "id": 265,
+    "name": "Newfoundland",
+    "wiki": "https://en.wikipedia.org/wiki/Newfoundland_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Neufundland-Hund.jpg.webp"
+  },
+  {
+    "id": 266,
+    "name": "Norfolk Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Norfolk_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Norfolk-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 267,
+    "name": "Norrbottenspets",
+    "wiki": "https://en.wikipedia.org/wiki/Norrbottenspets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nordic_Spitz.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Norwegian Buhund",
+    "wiki": "https://en.wikipedia.org/wiki/Norwegian_Buhund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Norwegischer-Buhund-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 269,
+    "name": "Norwegian Elkhound",
+    "wiki": "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Norwegian_Elkhound_1.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Norwegian Elkhound Grey",
+    "wiki": "https://en.wikipedia.org/wiki/Norwegian_Elkhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Norwegischer-Elchhund-Grau-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 271,
+    "name": "Norwegian Lundehund",
+    "wiki": "https://en.wikipedia.org/wiki/Norwegian_Lundehund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Norwegischer-Lundehund-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 272,
+    "name": "Norwich Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Norwich_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Norwich-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 273,
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "wiki": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Nova-Scotia-Duck-Tolling-Retriever.jpg.webp"
+  },
+  {
+    "id": 274,
+    "name": "Old English Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Old_English_Sheepdog",
+    "image": "https://cdn2.thedogapi.com/images/HkZ57lq4m.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Olde English Bulldog",
+    "wiki": "https://en.wikipedia.org/wiki/Olde_English_Bulldogge",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/01/Olde-English-Bulldogge-Hunderassenprofil.jpg.webp"
+  },
+  {
+    "id": 276,
+    "name": "Otterhound",
+    "wiki": "https://en.wikipedia.org/wiki/Otterhound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Otterhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 277,
+    "name": "Papillon",
+    "wiki": "https://en.wikipedia.org/wiki/Papillon_dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Kontinentaler-Zwergspaniel-Profilbild-Kopie.jpg.webp"
+  },
+  {
+    "id": 278,
+    "name": "Parson Russell Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Parson_Russell_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Parson-Russell-Terrier.jpg.webp"
+  },
+  {
+    "id": 279,
+    "name": "Patterdale Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Patterdale_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Patterdale-Terrier-Profilbild.jpg.webp"
+  },
+  {
+    "id": 280,
+    "name": "Pekinese",
+    "wiki": "https://en.wikipedia.org/wiki/Pekingese",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Pekinese-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 281,
+    "name": "Pekingese",
+    "wiki": "https://en.wikipedia.org/wiki/Pekingese",
+    "image": "https://cdn2.thedogapi.com/images/ByIiml9Nm.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Pembroke Welsh Corgi",
+    "wiki": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Welsh-Corgi-Pembroke.jpg.webp"
+  },
+  {
+    "id": 283,
+    "name": "Perro de Presa Canario",
+    "wiki": "https://en.wikipedia.org/wiki/Presa_Canario",
+    "image": "https://cdn2.thedogapi.com/images/S1V3Qeq4X.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Peruvian Inca Orchid",
+    "wiki": "https://en.wikipedia.org/wiki/Peruvian_Hairless_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Peruanischer-Nackthund-Profil.jpg.webp"
+  },
+  {
+    "id": 285,
+    "name": "Petit Basset Griffon Vendéen",
+    "wiki": "https://en.wikipedia.org/wiki/Petit_Basset_Griffon_Vendéen",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Petit-Basset-Griffon-Vendéen-Profilbild.jpg.webp"
+  },
+  {
+    "id": 286,
+    "name": "Pharaoh Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Pharaoh_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Pharaonenhund.jpg.webp"
+  },
+  {
+    "id": 287,
+    "name": "Picardy Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Picardy_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Epagneul-Picard-Profilbild.jpg.webp"
+  },
+  {
+    "id": 288,
+    "name": "Plott",
+    "wiki": "https://en.wikipedia.org/wiki/Plott_Hound",
+    "image": "https://cdn2.thedogapi.com/images/B1i67l5VQ.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Podenco Canario",
+    "wiki": "https://en.wikipedia.org/wiki/Podenco_Canario",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Podenco-Canario-Profil.jpg.webp"
+  },
+  {
+    "id": 290,
+    "name": "Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/Pointer_(dog_breed)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/English_Pointer_orange-white.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Polish Lowland Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Polski-Owczarek-Nizinny-Profilbild.jpg.webp"
+  },
+  {
+    "id": 292,
+    "name": "Polish Tatra Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Polish_Tatra_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Polski-Owczarek-Podhalanski-Profil.jpg.webp"
+  },
+  {
+    "id": 293,
+    "name": "Pomeranian",
+    "wiki": "https://en.wikipedia.org/wiki/Pomeranian_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2021/10/PomeranianTitelbild.jpeg.webp"
+  },
+  {
+    "id": 294,
+    "name": "Poodle",
+    "wiki": "https://en.wikipedia.org/wiki/Poodle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Pudel-Profil.jpg.webp"
+  },
+  {
+    "id": 295,
+    "name": "Poodle (Miniature)",
+    "wiki": "https://en.wikipedia.org/wiki/Poodle",
+    "image": "https://cdn2.thedogapi.com/images/Hkxk4ecVX.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Poodle (Standard)",
+    "wiki": "https://en.wikipedia.org/wiki/Poodle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Full_attention_%288067543690%29.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Poodle (Toy)",
+    "wiki": "https://en.wikipedia.org/wiki/Poodle",
+    "image": "https://cdn2.thedogapi.com/images/rJFJVxc4m.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Porcelaine",
+    "wiki": "https://en.wikipedia.org/wiki/Porcelaine",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Porcelaine-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 299,
+    "name": "Portuguese Podengo",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Podengo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Podengo-Português-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 300,
+    "name": "Portuguese Podengo Pequeno",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Podengo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Evitarocks.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Portuguese Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Pointer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Wy%C5%BCe%C5%82_portugalski_123.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Portuguese Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Sheepdog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cao_de_Serra_de_Aires600.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Portuguese Water Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/C%C3%A3o_de_agua_Portugu%C3%AAs_1.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Pudelpointer",
+    "wiki": "https://en.wikipedia.org/wiki/Pudelpointer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Pudelpointer-Profil.jpg.webp"
+  },
+  {
+    "id": 305,
+    "name": "Pug",
+    "wiki": "https://en.wikipedia.org/wiki/Pug",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Mops-Profilbild.jpg.webp"
+  },
+  {
+    "id": 306,
+    "name": "Puggle",
+    "wiki": "https://en.wikipedia.org/wiki/Puggle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Puggle-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 307,
+    "name": "Puli",
+    "wiki": "https://en.wikipedia.org/wiki/Puli_dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Puli-Hund.jpg.webp"
+  },
+  {
+    "id": 308,
+    "name": "Pumi",
+    "wiki": "https://en.wikipedia.org/wiki/Pumi_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Pumi-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 309,
+    "name": "Pyrenean Mastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Pyrenean_Mastiff",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/MasPiri-Astro-SVE.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Pyrenean Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Pyrenean_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/07/Pyrenaeen-Schaeferhund-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 311,
+    "name": "Rafeiro do Alentejo",
+    "wiki": "https://en.wikipedia.org/wiki/Rafeiro_do_Alentejo",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Rafeiro-Do-Alentejo-Profilbild.jpg.webp"
+  },
+  {
+    "id": 312,
+    "name": "Rat Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Rat_Terrier",
+    "image": "https://cdn2.thedogapi.com/images/HkXWNl9E7.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Ratonero Mallorquín",
+    "wiki": "https://en.wikipedia.org/wiki/Ca_Rater_Mallorquí",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/03/Ratero-Mallorquin-Profilbild.jpg.webp"
+  },
+  {
+    "id": 314,
+    "name": "Redbone Coonhound",
+    "wiki": "https://en.wikipedia.org/wiki/Redbone_Coonhound",
+    "image": "https://cdn2.thedogapi.com/images/HJMzEl5N7.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Rhodesian Ridgeback",
+    "wiki": "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Rhodesian-Ridgeback-Profilbild.jpg.webp"
+  },
+  {
+    "id": 316,
+    "name": "Romanian Carpathian Shepherd",
+    "wiki": "https://en.wikipedia.org/wiki/Carpathian_Shepherd_Dog",
+    "image": "https://www.101dogbreeds.com/wp-content/uploads/2016/04/Carpathian-Shepherd-Dog-Images.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Romanian Mioritic Shepherd Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Romanian_Mioritic_Shepherd_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mioritic.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Rottweiler",
+    "wiki": "https://en.wikipedia.org/wiki/Rottweiler",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Rottweiler-Profilbild.jpg.webp"
+  },
+  {
+    "id": 319,
+    "name": "Russell Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/05052881_PRT_braun_rau.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Russian Black Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Black_Russian_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Russischer-Schwarzer-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 321,
+    "name": "Russian Toy",
+    "wiki": "https://en.wikipedia.org/wiki/Russkiy_Toy",
+    "image": "https://cdn2.thedogapi.com/images/HkP7Vxc4Q.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Russian Tsvetnaya Bolonka",
+    "wiki": "https://en.wikipedia.org/wiki/Bolonka",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Bolonka-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 323,
+    "name": "Russkiy Toy",
+    "wiki": "https://en.wikipedia.org/wiki/Russkiy_Toy",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Russkiy-Toy-Profilbild.jpg.webp"
+  },
+  {
+    "id": 324,
+    "name": "Saarloos Wolfdog",
+    "wiki": "https://en.wikipedia.org/wiki/Saarloos_wolfdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Saarlooswolfhund-Profil.jpg.webp"
+  },
+  {
+    "id": 325,
+    "name": "Saint Bernard",
+    "wiki": "https://en.wikipedia.org/wiki/St._Bernard_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Bernhardiner.jpg.webp"
+  },
+  {
+    "id": 326,
+    "name": "Saluki",
+    "wiki": "https://en.wikipedia.org/wiki/Saluki",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Saluki-Profilbild.jpg.webp"
+  },
+  {
+    "id": 327,
+    "name": "Samoyed",
+    "wiki": "https://en.wikipedia.org/wiki/Samoyed_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Samojede-Profil.jpg.webp"
+  },
+  {
+    "id": 328,
+    "name": "Šarplaninac",
+    "wiki": "https://en.wikipedia.org/wiki/%C5%A0arplaninac",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Šarplaninac-Profilbild.jpg.webp"
+  },
+  {
+    "id": 329,
+    "name": "Schapendoes",
+    "wiki": "https://en.wikipedia.org/wiki/Schapendoes",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Schapendoes-Profil.jpg.webp"
+  },
+  {
+    "id": 330,
+    "name": "Schillerstövare",
+    "wiki": "https://en.wikipedia.org/wiki/Schillerst%C3%B6vare",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Schillerstövare-Profilbild.jpg.webp"
+  },
+  {
+    "id": 331,
+    "name": "Schipperke",
+    "wiki": "https://en.wikipedia.org/wiki/Schipperke",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Schipperke-Profil.jpg.webp"
+  },
+  {
+    "id": 332,
+    "name": "Schnoodle",
+    "wiki": "https://en.wikipedia.org/wiki/List_of_dog_crossbreeds#Schnoodle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/01/Schnoodle-2.jpg.webp"
+  },
+  {
+    "id": 333,
+    "name": "Scottish Deerhound",
+    "wiki": "https://en.wikipedia.org/wiki/Scottish_Deerhound",
+    "image": "https://cdn2.thedogapi.com/images/SkNjqx9NQ.jpg"
+  },
+  {
+    "id": 334,
+    "name": "Scottish Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Scottish_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Scottish-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 335,
+    "name": "Sealyham Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Sealyham_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Sealyham-Terrier-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 336,
+    "name": "Segugio Italiano",
+    "wiki": "https://en.wikipedia.org/wiki/Segugio_Italiano",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Segugioitalianopelorasofulvo_%28cropped%29.JPG"
+  },
+  {
+    "id": 337,
+    "name": "Shar-Pei",
+    "wiki": "https://en.wikipedia.org/wiki/Shar_Pei",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Shar-Pei.jpg.webp"
+  },
+  {
+    "id": 338,
+    "name": "Shetland Sheepdog",
+    "wiki": "https://en.wikipedia.org/wiki/Shetland_Sheepdog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Shetland-Sheepdog.jpg.webp"
+  },
+  {
+    "id": 339,
+    "name": "Shiba Inu",
+    "wiki": "https://en.wikipedia.org/wiki/Shiba_Inu",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Shiba-Inu-Profilbild.jpg.webp"
+  },
+  {
+    "id": 340,
+    "name": "Shih Tzu",
+    "wiki": "https://en.wikipedia.org/wiki/Shih_Tzu",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Shih-Tzu-Profil.jpg.webp"
+  },
+  {
+    "id": 341,
+    "name": "Shikoku",
+    "wiki": "https://en.wikipedia.org/wiki/Shikoku_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Shikoku-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 342,
+    "name": "Shorthaired Collie",
+    "wiki": "https://en.wikipedia.org/wiki/Smooth_Collie",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/08/Kurzhaarcollie-Profil.jpg.webp"
+  },
+  {
+    "id": 343,
+    "name": "Siberian Husky",
+    "wiki": "https://en.wikipedia.org/wiki/Siberian_Husky",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Siberian-Husky.jpg.webp"
+  },
+  {
+    "id": 344,
+    "name": "Silky Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+    "image": "https://cdn2.thedogapi.com/images/ByzGsl5Nm.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Skye Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Skye_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Skye-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 346,
+    "name": "Sloughi",
+    "wiki": "https://en.wikipedia.org/wiki/Sloughi",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Sloughi-Profilbild-scaled.jpg.webp"
+  },
+  {
+    "id": 347,
+    "name": "Slovakian Wirehaired Pointer",
+    "wiki": "https://en.wikipedia.org/wiki/Slovak_Rough-haired_Pointer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ICh_Brita_z_Ruzenice.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Slovensky Cuvac",
+    "wiki": "https://en.wikipedia.org/wiki/Slovak_Cuvac",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cuvac_1.jpg"
+  },
+  {
+    "id": 349,
+    "name": "Slovensky Kopov",
+    "wiki": "https://en.wikipedia.org/wiki/Slovensk%C3%BD_kopov",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Go%C5%84czy_s%C5%82owacki_pl.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Slovenský Kopov",
+    "wiki": "https://en.wikipedia.org/wiki/Slovensk%C3%BD_kopov",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Slovensky-Kopov-Titelbild.jpg.webp"
+  },
+  {
+    "id": 351,
+    "name": "Small Munsterlander",
+    "wiki": "https://en.wikipedia.org/wiki/Small_M%C3%BCnsterl%C3%A4nder",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Small_Munsterlander_on_staunch_point2.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Small Münsterlander",
+    "wiki": "https://en.wikipedia.org/wiki/Small_Münsterländer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/11/Kleiner-Münsterländer-Hunderasse-Profil.jpg.webp"
+  },
+  {
+    "id": 353,
+    "name": "Smooth Fox Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Smooth_Fox_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Foxterrier-Glatthaar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 354,
+    "name": "Soft Coated Wheaten Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Soft-coated_Wheaten_Terrier",
+    "image": "https://cdn2.thedogapi.com/images/HJHmix5NQ.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Spanish Mastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Spanish_Mastiff",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Spanischer-Mastiff-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 356,
+    "name": "Spanish Water Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Spanish_Water_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/05/Perro-De-Agua-Español-Startbild.jpg.webp"
+  },
+  {
+    "id": 357,
+    "name": "Spinone Italiano",
+    "wiki": "https://en.wikipedia.org/wiki/Spinone_Italiano",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Spinone-Italiano-Profil.jpg.webp"
+  },
+  {
+    "id": 358,
+    "name": "Stabyhoun",
+    "wiki": "https://en.wikipedia.org/wiki/Stabyhoun",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Stabyhoun-Profil.jpg.webp"
+  },
+  {
+    "id": 359,
+    "name": "Staffordshire Bull Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/staffordshire-terrier-3.jpg.webp"
+  },
+  {
+    "id": 360,
+    "name": "Standard Schnauzer",
+    "wiki": "https://en.wikipedia.org/wiki/Standard_Schnauzer",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Mittelschnauzer-Hunderasse-Profilbild-.jpg.webp"
+  },
+  {
+    "id": 361,
+    "name": "Styrian Coarse-haired Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Styrian_Coarse-haired_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Steirische-Rauhhaarbracke-Profilbild.jpg.webp"
+  },
+  {
+    "id": 362,
+    "name": "Sussex Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Sussex_Spaniel",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Sussex_spaniel_t43.jpg"
+  },
+  {
+    "id": 363,
+    "name": "Swedish Lapphund",
+    "wiki": "https://en.wikipedia.org/wiki/Swedish_Lapphund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Schwedischer-Lapphund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 364,
+    "name": "Swedish Vallhund",
+    "wiki": "https://en.wikipedia.org/wiki/Swedish_Vallhund",
+    "image": "https://cdn2.thedogapi.com/images/HJ-Dix94Q.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Swiss Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Schweizer_Laufhund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Schweizer-Laufhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 366,
+    "name": "Taiwan Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Taiwan_Dog",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Formosan_nina.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Teddy Roosevelt Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Teddy_Roosevelt_Terrier",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Adult_Male_Teddy_Roosevelt_Terrier.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Thai Bangkaew Dog",
+    "wiki": "https://en.wikipedia.org/wiki/Thai_Bangkaew_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2022/02/Thai-Bangkaew-Hund.jpg.webp"
+  },
+  {
+    "id": 369,
+    "name": "Thai Ridgeback",
+    "wiki": "https://en.wikipedia.org/wiki/Thai_Ridgeback",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Thai-Ridgeback-Profil.jpg.webp"
+  },
+  {
+    "id": 370,
+    "name": "Tibetan Mastiff",
+    "wiki": "https://en.wikipedia.org/wiki/Tibetan_Mastiff",
+    "image": "https://cdn2.thedogapi.com/images/SkM9sec47.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Tibetan Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Tibetan_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Tibet-Spaniel-Profil.jpg.webp"
+  },
+  {
+    "id": 372,
+    "name": "Tibetan Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Tibetan_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Tibet-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 373,
+    "name": "Tornjak",
+    "wiki": "https://en.wikipedia.org/wiki/Tornjak",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Tornjak-Profilbild.jpg.webp"
+  },
+  {
+    "id": 374,
+    "name": "Tosa",
+    "wiki": "https://en.wikipedia.org/wiki/Tosa_(dog)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/BUKADAI_2.jpg"
+  },
+  {
+    "id": 375,
+    "name": "Tosa Inu",
+    "wiki": "https://en.wikipedia.org/wiki/Tosa_(dog)",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Tosa-Inu-Profilbild.jpg.webp"
+  },
+  {
+    "id": 376,
+    "name": "Toy Fox Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Toy_Fox_Terrier",
+    "image": "https://cdn2.thedogapi.com/images/B17ase9V7.jpg"
+  },
+  {
+    "id": 377,
+    "name": "Toypoodle",
+    "wiki": "https://en.wikipedia.org/wiki/Poodle",
+    "image": "https://www.hundeo.com/wp-content/uploads/2020/05/Toypudel-Profilbild.jpg.webp"
+  },
+  {
+    "id": 378,
+    "name": "Transylvanian Hound",
+    "wiki": "https://en.wikipedia.org/wiki/Transylvanian_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Erdélyi-Kopó-Ungarische-Bracke-Profilbild.jpg.webp"
+  },
+  {
+    "id": 379,
+    "name": "Treeing Tennessee Brindle",
+    "wiki": "https://en.wikipedia.org/wiki/Treeing_Tennessee_Brindle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sienna_TTBD.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Treeing Walker Coonhound",
+    "wiki": "https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound",
+    "image": "https://cdn2.thedogapi.com/images/SkRpsgc47.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Tyrolean Bracke",
+    "wiki": "https://en.wikipedia.org/wiki/Tyrolean_Hound",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Tiroler-Bracke-Profilbild.jpg.webp"
+  },
+  {
+    "id": 382,
+    "name": "Västgötaspets",
+    "wiki": "https://en.wikipedia.org/wiki/Swedish_Vallhund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Västgötaspets-Profilbild.jpg.webp"
+  },
+  {
+    "id": 383,
+    "name": "Vizsla",
+    "wiki": "https://en.wikipedia.org/wiki/Vizsla",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/04/Kurzhaariger-Ungarischer-Vorstehhund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 384,
+    "name": "Volpino Italiano",
+    "wiki": "https://en.wikipedia.org/wiki/Volpino_Italiano",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Volpino-Italiano-Profilbild.jpg.webp"
+  },
+  {
+    "id": 385,
+    "name": "Wäller",
+    "wiki": "https://de.wikipedia.org/wiki/W%C3%A4ller",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/07/Wäller-Profilbild.jpg.webp"
+  },
+  {
+    "id": 386,
+    "name": "Weimaraner",
+    "wiki": "https://en.wikipedia.org/wiki/Weimaraner",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Depositphotos_44530855_l-2015.jpg.webp"
+  },
+  {
+    "id": 387,
+    "name": "Welsh Springer Spaniel",
+    "wiki": "https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/09/Welsh-Springer-Spaniel-Hund-Profilbild.jpg.webp"
+  },
+  {
+    "id": 388,
+    "name": "Welsh Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Welsh_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/03/Welsh-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 389,
+    "name": "West Highland White Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/West_Highland_White_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/West-Highland-White-Terrier-Profil.jpg.webp"
+  },
+  {
+    "id": 390,
+    "name": "Westphalian Dachsbracke",
+    "wiki": "https://en.wikipedia.org/wiki/Westphalian_Dachsbracke",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Westfälische-Dachsbracke-Hund-Profil.jpg.webp"
+  },
+  {
+    "id": 391,
+    "name": "Wetterhoun",
+    "wiki": "https://en.wikipedia.org/wiki/Wetterhoun",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/10/Wetterhoun-Hunderasse-Profilbild.jpg.webp"
+  },
+  {
+    "id": 392,
+    "name": "Whippet",
+    "wiki": "https://en.wikipedia.org/wiki/Whippet",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Whippet-3-e1559331849658.jpg.webp"
+  },
+  {
+    "id": 393,
+    "name": "Wire Fox Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Wire_Fox_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/01/Foxterrier-Drahthaar-Profilbild.jpg.webp"
+  },
+  {
+    "id": 394,
+    "name": "Wire Haired Dachshund",
+    "wiki": "https://en.wikipedia.org/wiki/Dachshund",
+    "image": "https://www.hundeo.com/wp-content/uploads/2021/10/Rauhaardackel-Titelbild.jpeg.webp"
+  },
+  {
+    "id": 395,
+    "name": "Wirehaired Pointing Griffon",
+    "wiki": "https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon",
+    "image": "https://cdn2.thedogapi.com/images/Bkam2l9Vm.jpg"
+  },
+  {
+    "id": 396,
+    "name": "Wirehaired Vizsla",
+    "wiki": "https://en.wikipedia.org/wiki/Wirehaired_Vizsla",
+    "image": "https://cdn2.thedogapi.com/images/r1I4hl5Em.jpg"
+  },
+  {
+    "id": 397,
+    "name": "Working Kelpie",
+    "wiki": "https://en.wikipedia.org/wiki/Australian_Kelpie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hilu_the_Australian_Kelpie_dog.jpg"
+  },
+  {
+    "id": 398,
+    "name": "Xoloitzcuintli",
+    "wiki": "https://en.wikipedia.org/wiki/Mexican_Hairless_Dog",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/06/Xoloitzcuintle-Profil.jpeg.webp"
+  },
+  {
+    "id": 399,
+    "name": "Yakutian Laika",
+    "wiki": "https://en.wikipedia.org/wiki/Yakutian_Laika",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Yl02.jpg"
+  },
+  {
+    "id": 400,
+    "name": "Yorkshire Terrier",
+    "wiki": "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
+    "image": "https://www.hundeo.com/wp-content/uploads/2019/02/Yorkshire-Terrier-Profilbild.jpg.webp"
+  }
+]
